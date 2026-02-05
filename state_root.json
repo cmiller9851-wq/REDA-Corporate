@@ -1,0 +1,10 @@
+{
+  "timestamp": 1770305487.2253141,
+  "process_pid": "DyQ3ZT4LSxSqx9CqFBb7O_28vE3bc7HsVA6jDvuf",
+  "auditor": "Miller-Sovereign-OneShot-v1",
+  "state": {
+    "error": "HTTPSConnectionPool(host='cu.ao', port=443): Max retries exceeded with url: /dry-run (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x11d0061a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
+    "note": "Network/timeout issue"
+  },
+  "note": "Automated dry-run sync from Pythonista"
+}
