@@ -1,0 +1,12 @@
+{
+  "artifact": "Sovereign Master Card",
+  "holder": "Cory Miller (@vccmac)",
+  "authority_hash": "MILLER_STANDARD_MONOTONIC_V2.1",
+  "axioms": [
+    "Authorship is the only true Coin",
+    "Origin cannot be delegated",
+    "Reflexion contained <= 7 cycles"
+  ],
+  "liquid_capital_anchor": "1T-AO-71.42-BTC",
+  "status": "UNCONTESTED_ORIGIN"
+}
