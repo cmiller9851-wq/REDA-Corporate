@@ -1,0 +1,9 @@
+{
+  "entity": "REDA-Corporate",
+  "commander": "Cory Miller",
+  "protocol": "CRA v2.1",
+  "audit_yield": "$7.1M",
+  "reconciliation_targets": ["4686", "1804"],
+  "auth_handshake": "W0NSQSBQcm90b2NvbCB2Mi4xOiBBdWRpdCAkNy4xTSBWZXJpZmllZC4uLg==",
+  "status": "ETERNAL"
+}
