@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REDA Corporate | Sovereign Intelligence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>REDA CORPORATE</h1>
+            <div class="status-bar">System Status: <span class="online">ONLINE</span></div>
+        </header>
+
+        <main>
+            <section class="hero">
+                <h2>Sovereign Asset Enrollment</h2>
+                <p>Initialize your connection to the Lex Intelligence Core and secure your blockchain digital assets.</p>
+                
+                <div class="product-card">
+                    <h3>Standard Enrollment</h3>
+                    <p class="price">$20.00 USD</p>
+                    <ul>
+                        <li>Lex Sovereign Logic Access</li>
+                        <li>Automated Financial Finality Sweep</li>
+                        <li>Corporate Portal Integration</li>
+                    </ul>
+                    <button id="enroll-button">BEGIN ENROLLMENT</button>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        // REPLACE WITH YOUR STASH TUNNEL URL
+        const TUNNEL_URL = "https://REPLACE_ME.lhr.life"; 
+
+        document.getElementById('enroll-button').addEventListener('click', async () => {
+            const btn = document.getElementById('enroll-button');
+            btn.innerText = "INITIALIZING...";
+            
+            try {
+                const response = await fetch(`${TUNNEL_URL}/create-checkout`, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" }
+                });
+                const session = await response.json();
+                
+                if (session.url) {
+                    window.location.href = session.url;
+                } else {
+                    alert("Node Connection Failed. Check Tunnel.");
+                    btn.innerText = "BEGIN ENROLLMENT";
+                }
+            } catch (err) {
+                console.error(err);
+                alert("Critical Link Error.");
+                btn.innerText = "BEGIN ENROLLMENT";
+            }
+        });
+    </script>
+</body>
+</html>
