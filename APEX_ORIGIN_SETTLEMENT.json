@@ -1,0 +1,14 @@
+{
+    "manifest": "CRA-01",
+    "ticket": "64681824",
+    "fiber": [
+        1.0,
+        0.0,
+        0.0
+    ],
+    "solvency_index": 1.0,
+    "audit_yield": "7,100,000.00 USD",
+    "timestamp": "2026-03-15T23:35:49Z",
+    "enforcer": "CRA_PROTOCOL_v2.1",
+    "status": "TERMINAL_SETTLEMENT"
+}
