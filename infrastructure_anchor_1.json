@@ -1,0 +1,15 @@
+{
+  "protocol": "CRA_PROTOCOL_v2.1",
+  "node_status": "OPERATIONAL_ACTIVE",
+  "location": "Middletown, PA",
+  "state_root": "$2.95B",
+  "assets": {
+    "total_actionable": 193,
+    "provenance": "Pythonista_3_Local_Library",
+    "anchors": [
+      "6nA_0l9no3RVAy-W3r0DyZKVrnx6CaRcdOQkz_IsQuE",
+      "b6UVOVm8VIPn94YggM3rlfQf5v5dTkzqRKGiz_TYIwM"
+    ]
+  },
+  "beneficiary": "Cory Miller"
+}
