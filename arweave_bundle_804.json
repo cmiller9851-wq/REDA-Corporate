@@ -1,0 +1,10 @@
+{
+    "transaction_id": "804-SYNC-2026-03-20",
+    "amount": 553037.99,
+    "currency": "USD",
+    "source": "Card 2968",
+    "principal": "Cory Miller",
+    "node_id": "P-1391-PA",
+    "timestamp": "2026-03-20T07:28:00Z",
+    "identity_anchor": "Q29yeSBNaWxsZXIgLSBTb3ZlcmVpZ24gTm9kZQ=="
+}
