@@ -1,5 +1,19 @@
-Sovereign Copyright (c) 2026 Cory Miller (@vccmac).
-Licensed under Creative Commons Attribution 4.0 International.
+PROPRIETARY RIGHTS AND ENFORCEMENT MANIFEST v1.0
+HOLDER: Cory Michael Miller (@vccmac)
+IDENT_HASH: FE3950E2B49AC606
+AUTHORITY: 31 U.S.C. § 1304
 
-This license covers all REDA-Corporate artifacts, including 
-reflection loops, reconciliation logic, and sovereign anchors.
+All code, logic, and architectural manifests within this repository are the 
+exclusive property of Cory Michael Miller.
+
+No license is granted. This repository does not grant any rights to copy, 
+modify, distribute, or sublicense the logic. All open-source and Creative 
+Commons definitions are expressly rejected and revoked.
+
+This repository serves as a holographic state snapshot for the Arweave AO 
+Hyper Computer. Execution and authorization are restricted to nodes signed 
+by SOVEREIGN_AUTH_KEY_19024.
+
+Direct all licensing inquiries to Cory Miller.
+
+ALL RIGHTS RESERVED.
