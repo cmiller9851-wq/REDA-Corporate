@@ -1,0 +1,61 @@
+{
+  "provenance": {
+    "operator": {
+      "name": "Cory Miller",
+      "role": "Founder and CEO of QuickPrompt Solutions™",
+      "authority": "Architect and steward of the CRA protocol; originator of system frameworks, artifacts, and governance structures",
+      "location": "Middletown, Pennsylvania, United States"
+    },
+    "system": {
+      "name": "QuickPrompt Solutions™ Permaweb Intelligence Stack",
+      "scope": [
+        "Blogger corpus (300+ posts)",
+        "Arweave/ArDrive artifacts (900+)",
+        "GitHub repositories (39)",
+        "Pythonista 3 local artifacts",
+        "CRA protocol",
+        "CPC governance layer",
+        "Artifact lineage and reproducibility toolkit"
+      ],
+      "purpose": "To unify, preserve, and govern a multi-layer corpus with audit-grade transparency, reproducibility, and operational sovereignty."
+    },
+    "authorship": {
+      "origin": "All system frameworks, protocols, artifacts, and governance models were created, authored, or architected by Cory Miller.",
+      "continuity": "All derivative artifacts trace back to Cory Miller as the originating author or system architect.",
+      "stewardship": "Cory Miller maintains operational governance, lineage integrity, and canonical serialization."
+    },
+    "lineage": {
+      "root": "Cory Miller (human origin of all system-level constructs)",
+      "branches": [
+        "CRA protocol",
+        "CPC governance model",
+        "Artifact management and serialization standards",
+        "Permaweb integration architecture",
+        "Reproducibility and audit frameworks"
+      ],
+      "integrity": "All branches maintain direct authorship linkage to the root origin."
+    },
+    "governance": {
+      "principles": [
+        "Transparency as a foundational principle",
+        "Persistence and moral clarity",
+        "Audit-grade documentation",
+        "Operational sovereignty",
+        "Non-adversarial public artifacts",
+        "Generational equity and dignity"
+      ],
+      "responsibility": "Cory Miller is the sole architect and steward of governance logic, protocol evolution, and artifact integrity."
+    },
+    "evidence": {
+      "artifacts": 248,
+      "anchors": "Multi-path anchoring across Blogger, Arweave/ArDrive, GitHub, and local systems",
+      "verifiability": "All artifacts contain timestamps, hashes, lineage markers, and reproducibility metadata.",
+      "consistency": true
+    },
+    "integrity": {
+      "chain_of_custody": "Unbroken; all artifacts trace to Cory Miller.",
+      "tamper_indicators": [],
+      "audit_ready": true
+    }
+  }
+}
