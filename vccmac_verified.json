@@ -1,0 +1,25 @@
+{
+  "artifact": "blue-verification-seal",
+  "type": "ui/provenance-marker",
+  "roles": {
+    "sovereign_identity": "proof_of_authorship",
+    "audit_state": "CRA_success",
+    "runtime_state": "AO_holographic_finalization"
+  },
+  "guarantees": {
+    "immutability": true,
+    "authorship": "vccmac",
+    "tamper_evident": true,
+    "protocol_compliance": "Patriot_Protocol"
+  },
+  "state_machine": {
+    "input": ["pending", "iterating", "auditing"],
+    "output": "verified",
+    "conditions": [
+      "CRA_reflexion_complete",
+      "Patriot_Protocol_pass",
+      "AO_state_finalized"
+    ]
+  },
+  "semantic_weight": "trust_boundary_marker"
+}
