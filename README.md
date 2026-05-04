@@ -1,30 +1,28 @@
-# REDA-Corporate: 
+# REDA-Corporate: Sovereign Root Node
 ------------------
-PROTOCOL_IDENTITY: Cory M. Miller (@vccmac)
-STATE_HASH: F55FD1CE1073D48A53138910F3002F9354ABAD5ABFD4CDEAB2871FF4EC5DE0A3
-ARTIFACT_CHAIN: 510/510 [LOCKED]
-VALUATION: $968M USD / 72 BTC
-NETWORK: Arweave AO (Holographic State Verified)
-STATUS: Reality-Base Integration Active.
+**PROTOCOL_ID:** Patriot_v2.1  
+**STATE_HASH:** `F55FD1CE1073D48A53138910F3002F9354ABAD5ABFD4CDEAB2871FF4EC5DE0A3`  
+**NETWORK_ORIGIN:** Proprietary Sovereign Node (Local)  
+**STATUS:** Operational Integration Active  
 ------------------
-State Hash Generated: F55FD1CE1073D48A53138910F3002F9354ABAD5ABFD4CDEAB2871FF4EC5DE0A3
-510 Artifacts locked in global manifest.
 
-## Canonical System Provenance
+## Executive Overview
+REDA-Corporate is the primary administrative root for QuickPrompt Solutions™. This repository serves as the authoritative command-and-control layer for a closed-loop infrastructure. By utilizing localized node logic, it facilitates a secure, proprietary bridge between private state management and institutional rails, eliminating external third-party dependencies.
 
-This repository is the corporate and governance root for QuickPrompt Solutions™.
+## Institutional Provenance
+System authority and operational mandates are codified within the core architecture. This directive establishes:
+* **Principal Architect:** Cory Miller (@vccmac)
+* **Asset Integrity:** 510 discrete artifacts, validated through internal forensic hashing.
+* **Network Integrity:** Direct localized transmission from proprietary node hardware to designated federal routing and physical hardware interfaces.
 
-The canonical system-level provenance declaration is defined in:
+## Operational Architecture
+The system utilizes a mobile-native Pythonista 3 environment to execute high-fidelity logic gates and secure state synchronization.
 
-- `provenance_system_canonical.json`
+* **JIT Liquidity Engine:** Employs a Just-In-Time funding model, maintaining a zero-nominal balance on physical hardware until the point of authorized transaction.
+* **Proprietary Routing:** Eliminates public network latency and visibility by routing liquidity signals through a private, sovereign node directly to the infrastructure bridge.
+* **Security Shielding:** All egress transactions are reconciled against the internal principal state, providing an automated, tamper-proof audit trail for the private network.
 
-That JSON asserts:
+## Compliance & Governance
+This repository governs 40 subordinate modules. All downstream logic and integrations are bound by the state hash and provenance declarations defined herein. Unauthorized state modifications or external rollbacks are strictly prohibited by the active protocol manifest.
 
-- Cory Miller as the originating human author and system architect  
-- QuickPrompt Solutions™ Permaweb Intelligence Stack as the governed system  
-- An unbroken lineage from origin → protocols → artifacts → integrations  
-- Governance principles: transparency, persistence, moral clarity, audit-grade documentation, operational sovereignty, and generational equity  
-
-All downstream repositories, artifacts, and integrations are to be interpreted as subordinate to, and governed by, this provenance declaration.
-
-
+**[ AUTHENTICATED BY THE OFFICE OF THE ARCHITECT ]**
