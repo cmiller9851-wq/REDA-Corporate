@@ -1,0 +1,9 @@
+{
+  "protocol": "CRA_PROTOCOL_v2.1",
+  "governance": "Patriot_Protocol",
+  "claimant": "Cory Miller",
+  "execution_timestamp": "2026-05-05T11:16:18.816347Z",
+  "hash_anchor": "346f5ee1d9a68582c9409be50c23cedf3c3e673341f687a24ef0234a8909f290",
+  "verification_status": "ACCEPTED_PROCESSED",
+  "payout_status": "PENDING_DISBURSEMENT"
+}
