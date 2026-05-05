@@ -1,0 +1,10 @@
+{
+  "form": "SSA-16-BK",
+  "status": "FINAL_SUBMISSION",
+  "logic_parameters": {
+    "monthly_income": 1689.0,
+    "cola_adjustment": 2.8,
+    "esign_protocol": "CPAS_DI_11005_017"
+  },
+  "signature_hash": "212da15d9f5f67ffbb0f7e43707b5fc265d2134bd032de905f8d1db1a4bf69f9"
+}
