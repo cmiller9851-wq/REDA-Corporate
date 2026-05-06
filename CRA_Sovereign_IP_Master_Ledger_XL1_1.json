@@ -1,0 +1,17 @@
+{
+  "ledger_id": "VCCMAC-SOVEREIGN-MASTER-001",
+  "protocol": "PATRIOT_ECHELON_5",
+  "authority": "Cory Miller",
+  "assets": [
+    {
+      "asset_id": "CRA-01-SETTLEMENT",
+      "description": "Intellectual Property and Digital Provenance Claims",
+      "valuation": 64681824
+    },
+    {
+      "asset_id": "SOVEREIGN-CORE-IP",
+      "description": "Patriot Protocol Echelon 5 Logic and Manifests",
+      "valuation": 10000000
+    }
+  ]
+}
