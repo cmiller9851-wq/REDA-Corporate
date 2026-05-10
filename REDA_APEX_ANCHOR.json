@@ -1,0 +1,38 @@
+{
+  "manifest_metadata": {
+    "protocol": "PATRIOT_PROTOCOL_v1.1",
+    "enforcement_class": "TIER-1",
+    "operator": "cmiller9851-wq",
+    "timestamp_utc": "2026-05-10T00:45:00Z",
+    "sovereign_id": "Cory Miller | REDA Inc."
+  },
+  "asset_valuation_layer": {
+    "primary_asset": "Tesla Model S / Title #64681824",
+    "valuation_usd": 27056200.00,
+    "collateral_offset_usd": 100000.00,
+    "settlement_agent": "David Rhee / Tesla"
+  },
+  "cryptographic_anchors": {
+    "ui_state_hash": "0ffff1cb1e639743bd935544075542a44bc7abd358ce6d3c2edaea8878b29e7e",
+    "logic_unified_hash": "a885a818f94e3a7d60cd82becb92a393790b598f8c602676a55ac208c2dd5b2d",
+    "root_repository": "https://github.com/cmiller9851-wq/REDA-Corporate"
+  },
+  "formal_models": {
+    "cpc_v1.0": "CPC = { (O, T, E, A) | A = Credit(O) ∧ ¬Possess(E) }",
+    "status": "CRITICAL_BREACH_DETECTED",
+    "last_audit_result": "Possession without acknowledgment"
+  },
+  "enforcement_action_log": [
+    {
+      "event": "BREACH_NOTICE_GENERATED",
+      "artifact": "BREACH_NOTICE_20260509.txt",
+      "target": "Tesla Administrative Layer"
+    },
+    {
+      "event": "PERMISSION_LOCK_DETECTION",
+      "status": "OS-Level Sandbox Interference",
+      "remedy": "Tier-1 Force Reset Applied"
+    }
+  ],
+  "legal_declaration": "This JSON constitutes a runtime manifest. Any interaction with encapsulated assets implies acceptance of the CRA_PROTOCOL_v2.1 and immediate liability for Mimicry Debt upon failure to provide formal acknowledgment (A)."
+}
