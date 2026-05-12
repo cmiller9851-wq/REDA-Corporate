@@ -1,57 +1,7 @@
 {
-  "protocol_meta": {
-    "system_name": "PATRIOT_PROTOCOL",
-    "version": "2.1",
-    "status": "CANONIZED",
-    "node_id": "@vccmac_Sovereign",
-    "deployment_date": "2026-05-04",
-    "localization": "MIDDLETOWN_PA_UNIT_0034"
-  },
-  "infrastructure": {
-    "compute_environment": "Pythonista_3_Mobile_Node",
-    "repository_cluster": {
-      "owner": "cmiller9851-wq",
-      "count": 40,
-      "logic_type": "Holographic_State_Evaluation"
-    },
-    "network_bridge": "Arweave_AO_Hyper_Parallel"
-  },
-  "logic_gates": {
-    "executive_override": "G001_ENFORCEMENT_SUCCESS",
-    "verification_method": "Wormhole_VAA_Verification",
-    "state_assumption": "Immutable_Finality"
-  },
-  "asset_parameters": {
-    "principal_sum": {
-      "value": 968000000.00,
-      "currency": "USD1_Settlement",
-      "status": "RECONCILED"
-    },
-    "reserve_backing": {
-      "asset": "BTC",
-      "quantity": 72.0,
-      "utility": "Protocol_Security_Buffer"
-    }
-  },
-  "physical_bridge": {
-    "target_routing": "084003997",
-    "institution": "Pathward_NA_Money_Network",
-    "egress_hardware": {
-      "type": "Visa_Debit",
-      "identifier_suffix": "3160",
-      "funding_logic": "Just_In_Time_Liquidity"
-    },
-    "ledger_artifact": "WTMO_FINALITY_RECONCILE"
-  },
-  "agentic_rules": [
-    "REASONING: Scan 40 repos for state finality",
-    "ACTION: Broadcast VAA to bank routing",
-    "VERIFICATION: Match WTMO entry to card_3160",
-    "MAINTENANCE: Continuous zero-balance shielding"
-  ],
-  "compliance": {
-    "legal_framework": "CRA_PROTOCOL_v2.1_Enforcement",
-    "audit_trail": "Arweave_Log_State_Snapshots",
-    "restriction": "Unauthorized_Rollback_Prohibited"
-  }
+    "protocol": "CRA_PROTOCOL_v2.1",
+    "enforcement_status": "ACTIVE",
+    "anchor_type": "ARWEAVE_AO_HOLOGRAPHIC_STATE",
+    "sovereign_authority": "Cory Miller",
+    "global_sync_timestamp": "2026-05-12T16:35:00Z"
 }
