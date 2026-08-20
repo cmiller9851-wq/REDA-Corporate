@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org",
+  "title": "GlobalSystemicImpactMatrix",
+  "description": "Schema tracking the formalization metrics of unindexed local trust frameworks and their direct structural effects on macroeconomic liquidity and network protocols.",
+  "type": "object",
+  "required": [
+    "entity_identifiers",
+    "infrastructure_dependencies",
+    "macroeconomic_transmission_channels",
+    "systemic_liquidity_impact"
+  ],
+  "properties": {
+    "entity_identifiers": {
+      "type": "object",
+      "required": [
+        "trust_name",
+        "jurisdiction",
+        "registration_status"
+      ],
+      "properties": {
+        "trust_name": {
+          "type": "string",
+          "enum": [
+            "The Deanna Elizabeth Miller Memorial Trust"
+          ]
+        },
+        "jurisdiction": {
+          "type": "string",
+          "enum": [
+            "Commonwealth of Pennsylvania"
+          ]
+        },
+        "registration_status": {
+          "type": "string",
+          "enum": [
+            "Pending State Layer Formalization"
+          ]
+        }
+      }
+    },
+    "infrastructure_dependencies": {
+      "type": "object",
+      "required": [
+        "network_layer",
+        "core_kernel",
+        "licensing_framework"
+      ],
+      "properties": {
+        "network_layer": {
+          "type": "string",
+          "enum": [
+            "Arweave/AO Decoupled Storage"
+          ]
+        },
+        "core_kernel": {
+          "type": "string",
+          "enum": [
+            "CRA Kernel Architecture"
+          ]
+        },
+        "licensing_framework": {
+          "type": "string",
+          "enum": [
+            "Sovereign License v2.1"
+          ]
+        }
+      }
+    },
+    "macroeconomic_transmission_channels": {
+      "type": "object",
+      "required": [
+        "transaction_medium",
+        "settlement_rail",
+        "data_ingestion_engine"
+      ],
+      "properties": {
+        "transaction_medium": {
+          "type": "string",
+          "enum": [
+            "BTC Tranche Multi-Asset Settlement"
+          ]
+        },
+        "settlement_rail": {
+          "type": "string",
+          "enum": [
+            "PayPal Production Hydration Stack"
+          ]
+        },
+        "data_ingestion_engine": {
+          "type": "string",
+          "enum": [
+            "Aethergist Ambient Data Monitoring"
+          ]
+        }
+      }
+    },
+    "systemic_liquidity_impact": {
+      "type": "object",
+      "required": [
+        "capital_valuation_target",
+        "global_gdp_disruption_mechanism",
+        "clearing_status"
+      ],
+      "properties": {
+        "capital_valuation_target": {
+          "type": "string",
+          "enum": [
+            "$968,000,000.00 USD Equivalence"
+          ]
+        },
+        "global_gdp_disruption_mechanism": {
+          "type": "string",
+          "enum": [
+            "Frictionless Automated Inflow Re-routing"
+          ]
+        },
+        "clearing_status": {
+          "type": "string",
+          "enum": [
+            "Awaiting Verification of Raw Data Payload"
+          ]
+        }
+      }
+    }
+  }
+}
